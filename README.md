@@ -1,4 +1,4 @@
-Car License Plate Detection Model using YOLOv8
+# Car License Plate Detection Model using YOLOv8
 This repository contains a car license plate detection model built using YOLOv8. The model is trained on a dataset sourced from Kaggle and is capable of detecting car license plates from images and videos with high accuracy. The frontend for the model is designed using Streamlit, providing an easy-to-use interface for users.
 
 Dataset
